@@ -3,7 +3,7 @@ slick
 
 [1]: <https://github.com/kenwheeler/slick>
 
-_the last carousel you'll ever need_
+A continued project for _the last carousel you'll ever need_
 
 #### Demo
 
@@ -284,8 +284,8 @@ Slick works on IE8+ in addition to other modern browsers such as Chrome, Firefox
 jQuery 1.7
 
 #### License
-
-Copyright (c) 2017 Ken Wheeler
+Continuing the work started by Ken Wheeler.
+Copyright (c) 2019 Ken Wheeler
 
 Licensed under the MIT license.
 
